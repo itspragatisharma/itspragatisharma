@@ -1,4 +1,7 @@
-# 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pragati%20Sharma&fontSize=40"/>
+
+
+
 ## 🌱 About Me<br><br>Hi, I’m Pragati 👋  <br>I’m a Computer Science sophomore and a beginner developer who believes in learning by building and contributing.<br><br>🔭 **Currently working on:**  <br>Small projects to strengthen my fundamentals in programming and web development.<br><br>🤝 **Looking to collaborate on:**  <br>Beginner-friendly open-source projects, documentation, and first-issue contributions.<br><br>🆘 **Looking for help with:**  <br>Open-source contribution workflows, project structure, and writing clean, readable code.<br><br>🌱 **Currently learning:**  <br>Python, Java, JavaScript, Git & GitHub, React, Django, and SQL.<br><br>💬 **Ask me about:**  <br>Getting started with coding, learning as a beginner, or preparing for open source.<br><br>⚡ **Fun fact:**  <br>I’m a beginner, but I show up every day—and that’s my biggest strength.<br>
 
 
